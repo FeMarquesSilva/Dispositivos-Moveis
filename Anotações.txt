@@ -1,0 +1,17 @@
+Na primeira aula (25/07) a professora deu uma introdução sobre TypeScript e quais ferramentas utilizariamos nas aulas;
+
+Na segunda aula (01/08) a professora começou explicando sobre as tipagem que se faz no TypeScript
+Explicou como realizar o routeamento e criação do HEADER, explicou sobre a slash screen;
+
+Na terceira aula (08/08) a professora explicou sobre o trabalho, esplicou sobre tabs/stacks - empilhamento das telas com o routeamento.
+
+
+
+-----------------------------------------------------
+
+<View></View> = Div;
+<ScrollView> = Utilizada para realizar rolagem na tela;
+
+O arquivo de "+html.tsx" se trata de um arquivo de configurações gerais do site em si, não mexemos muito nele;
+O arquivo de "+not-found.tsx" é para redirecionar o usuario para uma tela de erro, caso ele tente acessar algo que não existe;
+Tudo começa pelo arquivo "_layout.tsx";

@@ -1,0 +1,2 @@
+Para criar um projeto novo o comando é: npx create-expo-app@latest
+Para iniciar o projeto, lembre de acessar a pasta craida primeiro, após, utilize o comando: npx expo star
