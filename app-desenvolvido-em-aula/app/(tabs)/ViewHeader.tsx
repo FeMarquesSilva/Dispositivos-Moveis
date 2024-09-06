@@ -23,5 +23,6 @@ const style = StyleSheet.create({
   header: {
     backgroundColor: "#f25",
     padding: 50,
+    color: "#fff",
   }
 })
